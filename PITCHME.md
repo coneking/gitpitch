@@ -47,13 +47,17 @@ $ Hola Mundo
 
 # Ayuda GitPitch
 
+Algunas de las ayudas de GitPitch son las siguientes
+
++++ 
+
 * Menu
  - Key: M |
-* Fullscreen
+* Fullscreen |
  - Key: F |
-* Overview
+* Overview |
  - Key: O |
-* Blackout
+* Blackout |
  - Key: B |
-* Speeker
+* Speeker |
  - Key: S |
