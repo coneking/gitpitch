@@ -26,11 +26,12 @@ Transición entre *opciones*.
 @title[Bandera]
 ### Bandera Chilena
 
+<span style="font-size:1em; color:white">Blanco.</span>
 Opciones | Orden | Colores 
  --- | --- | --- 
-Color1 | primera | blanco
-Color2 | segunda | azul
-Color3 | tercera | rojo
+Color1 | primera | <span style="font-size:1em; color:white">Blanco.</span>
+Color2 | segunda | <span style="font-size:1em; color:blue">Azul.</span>
+Color3 | tercera | <span style="font-size:1em; color:red">Rojo.</span>
 
 ---
 @title[Video]
