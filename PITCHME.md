@@ -12,6 +12,10 @@ Probaremos si podemos ingresar a [Google](http://www.google.cl)
 
 # Ejemplo de listado
 
+Transición entre *opciones*.
+
++++
+
 - Primera opción
 - Segunda opción |
 - Tercera opción |
@@ -20,8 +24,36 @@ Probaremos si podemos ingresar a [Google](http://www.google.cl)
 
 Ociones | Orden | Colores 
  --- | --- | --- 
-Opción1 | primera | blanco |
-Opción2 | segunda | azul |
-Opción3 | tercera | rojo |
+Opción1 | primera | blanco
+Opción2 | segunda | azul
+Opción3 | tercera | rojo
 
 ---
+
+# Mostrando Código
+
+Información estándar de código
+
++++
+
+## Ejemplo de código en python
+
+```python
+print("Hola Mundo")
+$ Hola Mundo
+```
+
+---
+
+# Ayuda GitPitch
+
+* Menu
+ - Key: M |
+* Fullscreen
+ - Key: F |
+* Overview
+ - Key: O |
+* Blackout
+ - Key: B |
+* Speeker
+ - Key: S |
