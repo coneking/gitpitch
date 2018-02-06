@@ -26,7 +26,7 @@ Transición entre *opciones*.
 @title[Bandera]
 ### Bandera Chilena
 
-<span style="font-size:1em; color:white">Blanco.</span>
+
 Opciones | Orden | Colores 
  --- | --- | --- 
 Color1 | primera | <span style="font-size:1em; color:white">Blanco.</span>
