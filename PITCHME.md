@@ -17,7 +17,7 @@ Probaremos si podemos ingresar a [Google](http://www.google.cl)
 Transición entre *opciones*.
 
 +++
-
+@title[Transición]
 - Primera opción
 - Segunda opción |
 - Tercera opción |
@@ -50,7 +50,7 @@ Información estándar de código
 
 +++
 @title[Ejemplo Código]
-## Ejemplo de código en python
+### Ejemplo de código en python
 
 ```python
 print("Hola Mundo")
@@ -58,8 +58,8 @@ $ Hola Mundo
 ```
 
 
-+++?gist=coneking/92850212e1434953d96c23aca84a92ab&lang=Scala&title=Gists: Compara números
-
++++?gist=coneking/92850212e1434953d96c23aca84a92ab&lang=Scala&title=GISTS: COMPARA NUMEROS
+@title[Ejemplo Gists]
 ---
 @title[Ayuda]
 # Ayuda GitPitch
