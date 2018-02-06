@@ -57,6 +57,9 @@ print("Hola Mundo")
 $ Hola Mundo
 ```
 
+
++++?gist=coneking/92850212e1434953d96c23aca84a92ab&lang=Scala&title=Gists: Compara números
+
 ---
 @title[Ayuda]
 # Ayuda GitPitch
