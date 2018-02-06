@@ -1,4 +1,6 @@
----
+![Fondo](http://shieldindustries.com/fireguard_wp/wp-content/uploads/2013/10/RedWoodLarge.jpg)
+
+---?image= http://shieldindustries.com/fireguard_wp/wp-content/uploads/2013/10/RedWoodLarge.jpg
 @title[Prueba]
 # Probando GitPitch
 
