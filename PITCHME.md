@@ -1,15 +1,17 @@
 ---
+@title[Prueba]
 # Probando GitPitch
 
 Se crearán una serie de slides para ver como se comportan en sus transiciones
 
 ---
+@title[Link URL]
 # Direccionamiento 
 
 Probaremos si podemos ingresar a [Google](http://www.google.cl)
 
 ---
-
+@title[Listado]
 # Ejemplo de listado
 
 Transición entre *opciones*.
@@ -21,7 +23,7 @@ Transición entre *opciones*.
 - Tercera opción |
 
 +++
-
+@title[Bandera]
 ### Bandera Chilena
 
 Opciones | Orden | Colores 
@@ -31,22 +33,22 @@ Color2 | segunda | azul
 Color3 | tercera | rojo
 
 ---
-
+@title[Video]
 # Video Anime!
 
-Compilado de luchas anime... Para una mejor experiencia presionar la tecla **F**
+Compilado de luchas anime... Para una mejor experiencia presionar la tecla **F**.
 
 +++?video=https://raw.githubusercontent.com/coneking/gitpitch/master/videos/anime.mp4
 @title[Anime Fights]
 
 ---
-
+@title[Código]
 # Mostrando Código
 
 Información estándar de código
 
 +++
-
+@title[Ejemplo Código]
 ## Ejemplo de código en python
 
 ```python
@@ -55,7 +57,7 @@ $ Hola Mundo
 ```
 
 ---
-
+@title[Ayuda]
 # Ayuda GitPitch
 
 Algunas de las ayudas de GitPitch son las siguientes
@@ -74,7 +76,7 @@ Algunas de las ayudas de GitPitch son las siguientes
  - Key: S 
 
 ---
-
+@title[Más información]
 # Todo esto y mucho más!!!
 
-Para más información [GitPich](https://github.com/gitpitch/gitpitch)
+Para más información [GitPitch](https://github.com/gitpitch/gitpitch)
