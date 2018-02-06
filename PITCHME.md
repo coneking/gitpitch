@@ -63,3 +63,9 @@ Algunas de las ayudas de GitPitch son las siguientes
  - Key: B 
 - Speeker |
  - Key: S 
+
+---
+
+# Todo esto y mucho más!!!
+
+Para más información [GitPich](https://github.com/gitpitch/gitpitch) | :octocat:
