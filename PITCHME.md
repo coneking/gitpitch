@@ -22,11 +22,13 @@ Transición entre *opciones*.
 
 +++
 
-Ociones | Orden | Colores 
+### Bandera Chilena
+
+Opciones | Orden | Colores 
  --- | --- | --- 
-Opción1 | primera | blanco
-Opción2 | segunda | azul
-Opción3 | tercera | rojo
+Color1 | primera | blanco
+Color2 | segunda | azul
+Color3 | tercera | rojo
 
 ---
 
@@ -51,13 +53,13 @@ Algunas de las ayudas de GitPitch son las siguientes
 
 +++ 
 
-* Menu
- - Key: M |
-* Fullscreen |
- - Key: F |
-* Overview |
- - Key: O |
-* Blackout |
- - Key: B |
-* Speeker |
- - Key: S |
+- Menu
+ - Key: M 
+- Fullscreen |
+ - Key: F 
+- Overview |
+ - Key: O 
+- Blackout |
+ - Key: B 
+- Speeker |
+ - Key: S 
