@@ -32,6 +32,15 @@ Color3 | tercera | rojo
 
 ---
 
+# Video Anime!
+
+Compilado de luchas anime... Para una mejor experiencia presionar la tecla **F**
+
++++?video=https://raw.githubusercontent.com/coneking/gitpitch/master/videos/anime.mp4
+@title[Anime Fights]
+
+---
+
 # Mostrando Código
 
 Información estándar de código
@@ -68,4 +77,4 @@ Algunas de las ayudas de GitPitch son las siguientes
 
 # Todo esto y mucho más!!!
 
-Para más información [GitPich](https://github.com/gitpitch/gitpitch) | :octocat:
+Para más información [GitPich](https://github.com/gitpitch/gitpitch)
