@@ -14,8 +14,8 @@ Probaremos si podemos ingresar a [Google](http://www.google.cl)
 ---?image=http://shieldindustries.com/fireguard_wp/wp-content/uploads/2013/10/RedWoodLarge.jpg
 @title[Listado]
 # Ejemplo de listado
-
-Transición entre *opciones*.
+Note:
+Se debe aclarar que en la siguiente slide, el listado muestra una transición, la cual se crea solamente agregando un `|` al final de cada valor.
 
 +++ ?image=http://shieldindustries.com/fireguard_wp/wp-content/uploads/2013/10/RedWoodLarge.jpg
 @title[Transición]
