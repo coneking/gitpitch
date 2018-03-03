@@ -41,8 +41,13 @@ Color3 | tercera | <span style="font-size:1em; color:red">Rojo.</span>
 
 Compilado de luchas anime... Para una mejor experiencia presionar la tecla **F**.
 
-+++ ?video=video/anime.mp4
++++?video=https://raw.githubusercontent.com/coneking/gitpitch/master/videos/anime.mp4
 @title[Anime Fights]
+
++++?image=images/wood.jpg
+### También videos de Youtube!
+
+![Video](https://www.youtube.com/watch?v=DPPUBgJl68w)
 
 --- ?image=images/wood.jpg
 @title[Código]
