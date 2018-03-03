@@ -41,10 +41,10 @@ Color3 | tercera | <span style="font-size:1em; color:red">Rojo.</span>
 
 Compilado de luchas anime... Para una mejor experiencia presionar la tecla **F**.
 
-+++?video=images/wood.jpg
++++ ?video=video/anime.mp4
 @title[Anime Fights]
 
----?image=images/wood.jpg
+--- ?image=images/wood.jpg
 @title[Código]
 # Mostrando Código
 
