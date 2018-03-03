@@ -1,1 +1,5 @@
 logo: images/logo.png
+theme : black
+background: images/wood.jpg
+slide-number : true
+transition : fade
