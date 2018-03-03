@@ -47,7 +47,7 @@ Compilado de luchas anime... Para una mejor experiencia presionar la tecla **F**
 +++?image=images/wood.jpg
 ### También videos de Youtube!
 
-![Video](https://www.youtube.com/watch?v=DPPUBgJl68w)
+![Video](https://www.youtube.com/embed/DPPUBgJl68w)
 
 --- ?image=images/wood.jpg
 @title[Código]
