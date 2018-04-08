@@ -74,7 +74,7 @@ $ Hola Mundo
 Algunas de las ayudas de GitPitch son las siguientes
 
 +++
-
+@title[teclas]
 - Menu
  - Key: M 
 - Fullscreen |
