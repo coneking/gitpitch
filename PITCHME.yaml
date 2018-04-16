@@ -1,5 +1,68 @@
 logo: images/logo.png
-theme : beige 
+theme: beige 
+slide-number: true
 # background: images/wood.jpg
-slide-number : true
 # transition : fade
+
+
+## Agregar tema a cada slide (theme)
+# theme: (opción)
+#
+# Opciones: moon, night, beige, sky, white, black
+
+
+## Agregar logo a cada slide (logo)
+# logo: images/logo.png
+
+
+## Posición logo
+# logo-position: (opción)
+#
+# Opciones: top-left, top-right, bottom-left, bottom-right
+
+
+## Alinear contenido a cada slide (layout)
+# layout: (opción)
+#
+# Opciones: center, center-left, center-right, top, top-left, top-right
+
+
+## Fondo de slide (background)
+# background: images/fondo.png
+
+
+## Tamaño de imagen de fondo (background-size)
+# Por defecto se usa el 100% del espacio del slide, esto se puede modificar según se necesite
+# background-size: auto %90
+
+
+## Posición de imagen de fondo (background-position)
+# Por defecto la posición es center
+# background-position: (opción)
+# Opciones: center, left, right
+
+
+## Color de fondo (background-color)
+# background-color: (color o código color)
+#
+# Ayuda: https://developer.mozilla.org/en-US/docs/Web/CSS/background-color
+
+
+## Agregar número de slide esquina derecha inferior (slide-number)
+# slide-number: true
+
+
+## Agregar nota al pie de la slide (footnote)
+# footnote: "Texto"
+
+
+## Tiempo entre cada slide (autoslide)
+# autoslide: (valor milisegundos, 5000 = 5seg)
+
+
+## Efecto de transición (transition)
+# transition: (opción)
+#
+# Opciones: convex, concave, default, fade, none, slide, zoom
+
+
